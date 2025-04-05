@@ -1,0 +1,18 @@
+1,VATICAN CITY,This is the smallest country in the world
+1,NEW YORK CITY,This is a city with the most diversity in terms of language
+1,CANADA,This country has the most natural lakes
+1,PHILIPPINES,This country is made up of 7000 islands
+1,OTTAWA,This city is the capital of Ontario
+1,CHINA,This country has the largest population in the world
+2,SIR ISAAC NEWTON,This physcisist discovered the concept of gravity
+2,BAMBOO,This is the tallest grass on earth
+2,HYDROGEN,This is the most abudant element in the universe
+2,MYCOLOGY,This is the study of mushrooms
+2,DIAMOND,This is the hardest natural substance on earth
+2,LIVER,This is the heaviest organ in the human body
+3,CHICKPEAS,This is the main ingredient in hummus
+3,SAFFRON,This is the most expensive spice by weight
+3,BELGIUM,This is where french fries were invented
+3,GOUDA,This is the type of cheese the Netherlands is famous for making
+3,MEXICO,This is where tacos come from
+3,LUXEMBOURG,This is where Belgian waffles were invented
